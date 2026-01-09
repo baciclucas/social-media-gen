@@ -1,6 +1,12 @@
-# Gerador Automático de Criativos de Mídia para E-commerce
+# 🎨 Gerador Automático de Criativos de Mídia para E-commerce
 
-POC (Proof of Concept) de um sistema gerador automático de criativos profissionais para redes sociais e mídia paga, desenvolvido para a Komea (rede de agentes de IA da Loja Integrada).
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Status](https://img.shields.io/badge/Status-POC%20Complete-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+POC (Proof of Concept) de um sistema gerador automático de criativos profissionais para redes sociais e mídia paga, desenvolvido para a **Komea** (rede de agentes de IA da Loja Integrada).
+
+---
 
 ## Contexto
 
@@ -11,6 +17,30 @@ Este sistema ajuda micro e pequenos varejistas a criar conteúdo visual profissi
 - Banner Web (1200x400)
 
 **Problema resolvido**: Lojistas iniciantes não sabem criar criativos de qualidade, o que dificulta a divulgação e atrasa a primeira venda.
+
+## 📸 Exemplos de Criativos Gerados
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Instagram Feed</b><br>
+      <img src="output/20260109_001931/instagram_feed_v1.png" width="250px"><br>
+      <sub>Variação Minimalista</sub>
+    </td>
+    <td align="center">
+      <b>Instagram Story</b><br>
+      <img src="output/20260109_001931/instagram_story_v1.png" width="140px"><br>
+      <sub>Variação Minimalista</sub>
+    </td>
+    <td align="center">
+      <b>Facebook Ad</b><br>
+      <img src="output/20260109_001931/facebook_ad_v1.png" width="300px"><br>
+      <sub>Variação Minimalista</sub>
+    </td>
+  </tr>
+</table>
+
+> **💡 Todos gerados automaticamente em menos de 1 segundo!**
 
 ## Funcionalidades
 
