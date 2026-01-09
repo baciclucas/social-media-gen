@@ -1,0 +1,52 @@
+{
+  "brand": "ModaStyle",
+  "product": "Camiseta Básica Premium",
+  "campaign_type": "promotional",
+  "colors_used": [
+    "#FF6B6B",
+    "#4ECDC4",
+    "#45B7D1"
+  ],
+  "texts_generated": {
+    "instagram_feed": {
+      "title": "Camiseta Básica Premium - 33% OFF!",
+      "subtitle": "100% algodão, confortável e durável. Perfeita para o dia a d",
+      "cta": "Compre Agora!",
+      "price": "R$ 59,90",
+      "discount": "-33%"
+    },
+    "instagram_story": {
+      "title": "Camiseta Básica Premium - 33% OFF!",
+      "subtitle": "100% algodão, confortável e durável. Perfeita para o dia a d",
+      "cta": "Compre Agora!",
+      "price": "R$ 59,90",
+      "discount": "-33%"
+    },
+    "facebook_ad": {
+      "title": "Camiseta Básica Premium - 33% OFF!",
+      "subtitle": "100% algodão, confortável e durável. Perfeita para o dia a d",
+      "cta": "Compre Agora!",
+      "price": "R$ 59,90",
+      "discount": "-33%"
+    },
+    "web_banner": {
+      "title": "Camiseta Básica Premium - 33% OFF!",
+      "subtitle": "100% algodão, confortável e durável. Perfeita para o dia a d",
+      "cta": "Compre Agora!",
+      "price": "R$ 59,90",
+      "discount": "-33%"
+    }
+  },
+  "files_generated": [
+    "instagram_feed_v1.png",
+    "instagram_feed_v2.png",
+    "instagram_story_v1.png",
+    "instagram_story_v2.png",
+    "facebook_ad_v1.png",
+    "facebook_ad_v2.png",
+    "web_banner_v1.png",
+    "web_banner_v2.png"
+  ],
+  "generation_date": "2026-01-09T00:19:32.399786",
+  "processing_time_seconds": 0.6312992572784424
+}

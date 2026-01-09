@@ -1,0 +1,17 @@
+{
+  "brand": {
+    "name": "TechSound",
+    "logo_path": "assets/examples/logo_tech.png",
+    "primary_colors": ["#2D3748", "#4299E1", "#90CDF4"],
+    "font_name": "Arial"
+  },
+  "product": {
+    "name": "Fone Bluetooth Premium",
+    "image_path": "assets/examples/produto_fone.png",
+    "price_original": 499.90,
+    "price_promotional": 299.90,
+    "description": "Cancelamento de ruído ativo e bateria de 30h. Som de alta qualidade",
+    "cta": "Aproveite!"
+  },
+  "campaign_type": "promotional"
+}

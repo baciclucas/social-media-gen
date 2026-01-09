@@ -1,0 +1,52 @@
+{
+  "brand": "TechSound",
+  "product": "Fone Bluetooth Premium",
+  "campaign_type": "promotional",
+  "colors_used": [
+    "#2D3748",
+    "#4299E1",
+    "#90CDF4"
+  ],
+  "texts_generated": {
+    "instagram_feed": {
+      "title": "Fone Bluetooth Premium - 40% OFF!",
+      "subtitle": "Cancelamento de ruído ativo e bateria de 30h. Som de alta qu",
+      "cta": "Aproveite!",
+      "price": "R$ 299,90",
+      "discount": "-40%"
+    },
+    "instagram_story": {
+      "title": "Fone Bluetooth Premium - 40% OFF!",
+      "subtitle": "Cancelamento de ruído ativo e bateria de 30h. Som de alta qu",
+      "cta": "Aproveite!",
+      "price": "R$ 299,90",
+      "discount": "-40%"
+    },
+    "facebook_ad": {
+      "title": "Fone Bluetooth Premium - 40% OFF!",
+      "subtitle": "Cancelamento de ruído ativo e bateria de 30h. Som de alta qu",
+      "cta": "Aproveite!",
+      "price": "R$ 299,90",
+      "discount": "-40%"
+    },
+    "web_banner": {
+      "title": "Fone Bluetooth Premium - 40% OFF!",
+      "subtitle": "Cancelamento de ruído ativo e bateria de 30h. Som de alta qu",
+      "cta": "Aproveite!",
+      "price": "R$ 299,90",
+      "discount": "-40%"
+    }
+  },
+  "files_generated": [
+    "instagram_feed_v1.png",
+    "instagram_feed_v2.png",
+    "instagram_story_v1.png",
+    "instagram_story_v2.png",
+    "facebook_ad_v1.png",
+    "facebook_ad_v2.png",
+    "web_banner_v1.png",
+    "web_banner_v2.png"
+  ],
+  "generation_date": "2026-01-09T00:19:52.532760",
+  "processing_time_seconds": 0.7500190734863281
+}

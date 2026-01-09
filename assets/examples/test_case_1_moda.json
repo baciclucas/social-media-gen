@@ -1,0 +1,17 @@
+{
+  "brand": {
+    "name": "ModaStyle",
+    "logo_path": "assets/examples/logo_moda.png",
+    "primary_colors": ["#FF6B6B", "#4ECDC4", "#45B7D1"],
+    "font_name": "Arial"
+  },
+  "product": {
+    "name": "Camiseta Básica Premium",
+    "image_path": "assets/examples/produto_camiseta.png",
+    "price_original": 89.90,
+    "price_promotional": 59.90,
+    "description": "100% algodão, confortável e durável. Perfeita para o dia a dia",
+    "cta": "Compre Agora!"
+  },
+  "campaign_type": "promotional"
+}

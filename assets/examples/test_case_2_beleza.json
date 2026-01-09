@@ -1,0 +1,16 @@
+{
+  "brand": {
+    "name": "BelaVida",
+    "logo_path": "assets/examples/logo_beleza.png",
+    "primary_colors": ["#FFE5E5", "#D4A5A5", "#F8C8DC"],
+    "font_name": "Arial"
+  },
+  "product": {
+    "name": "Creme Facial Hidratante",
+    "image_path": "assets/examples/produto_creme.png",
+    "price_original": 129.90,
+    "description": "Hidratação profunda e proteção antioxidante para sua pele",
+    "cta": "Saiba Mais"
+  },
+  "campaign_type": "standard"
+}
