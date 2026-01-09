@@ -21,6 +21,42 @@ Este sistema ajuda micro e pequenos varejistas a criar conteúdo visual profissi
 - Templates minimalistas e vibrantes
 - Validação de contraste para legibilidade
 - Exportação em alta qualidade (PNG 95%)
+- **Interface web mobile-first** para fácil uso em qualquer dispositivo
+
+## 🌐 Interface Web
+
+### Acesso Rápido
+
+O sistema possui uma **interface web moderna e mobile-first** desenvolvida com Streamlit, perfeita para usar em celulares, tablets e desktops.
+
+```bash
+# Iniciar interface web
+streamlit run app.py
+
+# Ou use o script de inicialização
+./run_web.sh
+```
+
+Acesse no navegador: `http://localhost:8501`
+
+### Recursos da Interface
+
+- 📱 **Mobile-First**: Design otimizado para celular
+- 🎨 **Visual Intuitivo**: Upload de imagens por drag-and-drop
+- 🎯 **Seletores de Cor**: Escolha cores da marca visualmente
+- 👁️ **Preview em Tempo Real**: Veja logo e produto antes de gerar
+- 📊 **Organização em Tabs**: Criativos separados por formato
+- ⬇️ **Download Fácil**: Baixe individualmente ou todos em ZIP
+- ✨ **Feedback Visual**: Mensagens claras e animações
+
+### Como Acessar de Dispositivos Móveis
+
+Na mesma rede WiFi, use o endereço exibido no terminal:
+```
+Network URL: http://192.168.x.x:8501
+```
+
+Para mais detalhes, veja: [QUICK_START_WEB.md](QUICK_START_WEB.md)
 
 ## Requisitos
 

@@ -8,6 +8,9 @@ anthropic>=0.39.0
 # Utilitários
 python-dotenv>=1.0.0
 
+# Interface Web
+streamlit>=1.29.0
+
 # Desenvolvimento e testes (opcional)
 pytest>=7.4.0
 pytest-cov>=4.1.0
